@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+#app-wrapper {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.listing {
+	width: 30%;
+	padding: 2em;
+	background: gray;
+	margin: 1%;
+}
